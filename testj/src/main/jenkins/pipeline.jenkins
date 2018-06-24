@@ -1,4 +1,4 @@
-@Library('mysharedlib')
+@Library('mysharedlib') _
 import net.courtanet.jenkins.Utils
 import net.courtanet.jenkins.ScriptLoader
 
